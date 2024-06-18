@@ -1,7 +1,7 @@
 {
   "name": "0xdrkmr",
   "website": "https://twitter.com/movekardesim",
-  "description": "0xdrkmr",
-  "logo": "https://i.ibb.co/jyPyXZq/doruk.png",
+  "description": "Operator",
+  "logo": "https://raw.githubusercontent.com/ostinedhil/eigen/main/doruk.png",
   "twitter": "https://twitter.com/movekardesim"
 }
